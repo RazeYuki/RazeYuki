@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Hamdika Putra** — an Informatics graduate from **Universitas AMIKOM Yogyakarta** with a strong interest in **Machine Learning, Data Science, and Artificial Intelligence**.<br><br>I enjoy turning data into meaningful insights and building practical solutions using machine learning. My experience includes **data analysis, predictive modeling, statistical analysis, data visualization, and dashboard development**.<br><br>- 🤖 Focused on **Machine Learning, Data Science & AI**<br>- 📊 Interested in **Data Analysis, Visualization & Dashboard Development**<br>- 🧠 Experienced with **Classification, Regression, Deep Learning & Time-Series Forecasting**<br>- 🐍 Mainly working with **Python, TensorFlow & Scikit-Learn**<br>- 📈 Building dashboards with **Power BI, Looker Studio & Streamlit**<br>- 🔬 First author of a published research paper on **Bank Loan Approval Classification**<br>- 🚀 Graduate of **Bangkit Academy 2024 – Machine Learning**<br>- ☁️ Exploring **Generative AI, IBM Granite & Cloud Technologies**<br>- 🌱 Always learning and experimenting with new technologies
+## 👋 About Me<br><br>Hi, I'm **Hamdika Putra** — an Informatics graduate from **Universitas AMIKOM Yogyakarta** with a strong interest in **Machine Learning, Data Science, and Artificial Intelligence**
 
 
 ## 🌐 Socials:
