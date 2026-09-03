@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>Hi, I'm **Hamdika Putra** — an Informatics graduate from **Universitas AMIKOM Yogyakarta** with a strong interest in **Machine Learning, Data Science, and Artificial Intelligence**
 
 
